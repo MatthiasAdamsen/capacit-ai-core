@@ -39,7 +39,6 @@ otebooks/: Exploratory Data Analysis (EDA) and experimental research.
 ## 🚀 About Capacit
 At **Capacit**, we don't just "do AI"—we solve problems. Our approach combines technical mastery with a deep understanding of customer needs to deliver solutions that actually work.
 
-**Visit us:** [capacit.ai](https://www.capacit.ai)
 
 ---
 
