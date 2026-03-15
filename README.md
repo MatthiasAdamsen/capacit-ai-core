@@ -1,4 +1,4 @@
-# Capacit AI Core 🚀
+# Capacit AI Core 
 
 ### *More than AI - Delivering Impactful Solutions*
 
